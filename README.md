@@ -1,15 +1,18 @@
-### Olá pessoal! Bem-vindos e bem-vindas ao meu GitHub! 👋
+## Olá pessoal! Bem-vindos e bem-vindas ao meu GitHub! 👋
 
-#### Sobre o Lucas
+### Sobre o Lucas
 Sou geólogo de formação, analista e desenvolvedor de sistemas de informação geográfica (SIG/ GIS). Meu objetivo no desenvolvimento GIS é ir além das possibilidades que os softwares tradicionais oferecem, desenvolvendo ferramentas e soluções inovadoras e automatizando os processos tanto quanto possível.
 
-#### Principais Interesses
+### Principais Interesses
 - Python/ Arcpy 🐍
 - Análise de dados geoespaciais 📊
 - ArcGIS/ QGIS 💻
 - Sensoriamento remoto 🛰️
 - Google Earth Engine 🌎
 - WebGIS 🗺️
+
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alucknroll)](https://github.com/anuraghazra/github-readme-stats)
 
 Gis is life!!
 
