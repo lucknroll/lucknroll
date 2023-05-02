@@ -1,7 +1,7 @@
 ## Olá pessoal! Bem-vindos e bem-vindas ao meu GitHub! 👋
 
 ### Sobre mim
-Sou geólogo de formação, analista e desenvolvedor de sistemas de informação geográfica (SIG/ GIS). Meu objetivo no desenvolvimento GIS é ir além das possibilidades que os softwares tradicionais oferecem, desenvolvendo ferramentas e soluções inovadoras e automatizando os processos tanto quanto possível.
+Sou geólogo de formação e analista e desenvolvedor de sistemas de informação geográfica (SIG/ GIS). Meu objetivo no desenvolvimento GIS é ir além das possibilidades que os softwares tradicionais oferecem, desenvolvendo ferramentas e soluções inovadoras e automatizando os processos tanto quanto possível.
 
 ### Principais Interesses
 - Python/ Arcpy 🐍
