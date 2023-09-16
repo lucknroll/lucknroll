@@ -10,6 +10,11 @@ Sou geólogo de formação e analista e desenvolvedor de sistemas de informaçã
 - Sensoriamento remoto 🛰️
 - Google Earth Engine 🌎
 - WebGIS 🗺️
+- PostgreSQL/ PostGIS 🌐
+
+### Certificações
+- [PCEP – Certified Entry-Level Python Programmer](https://verify.openedg.org/?id=LTCd.44kB.8FK5)
+- [DataCamp - Professional Data Analyst](https://www.datacamp.com/certificate/DA0018390551472)
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucknroll)](https://github.com/anuraghazra/github-readme-stats)
